@@ -40,7 +40,7 @@ Edit config.py with your values
 
 `nano config.py`
 
-Add pairs private_key;spare wallets to data.txt
+Add pairs private_key;spare wallet to data.txt
 
 `nano data.txt`
 

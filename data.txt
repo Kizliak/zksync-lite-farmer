@@ -1,0 +1,2 @@
+private_key1;0xaddress1 of you 2nd wallet (eth will be sent here)
+private_key2;0xaddress2 of you 2nd wallet (eth will be sent here)

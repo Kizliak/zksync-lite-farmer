@@ -28,9 +28,9 @@ Created by Riko https://t.me/legalcrypt
 ### Installation
 -------------
 
-`git clone https://github.com/Kizliak/zksync-lite-farmer`
-
 `apt install python3-pip, git`
+
+`git clone https://github.com/Kizliak/zksync-lite-farmer`
 
 `pip install git+https://github.com/zksync-sdk/zksync-python.git`
 

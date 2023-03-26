@@ -25,7 +25,7 @@ Created by Riko https://t.me/legalcrypt
 	Add more than 0.00011 ETH per account
 **3.** You need Python 3
 
-###Installation
+### Installation
 -------------
 
 `git clone https://github.com/Kizliak/zksync-lite-farmer`
@@ -53,5 +53,3 @@ When it finishes you will probably want like to check the remaining balances of 
 `cat balances.txt`
 
 Run the script manually every 5-7 days or use cron to schedule autorun.
-
-###End
